@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu May 26 15:48:12 2022
+# Process ID: 28984
+# Current directory: C:/Users/zkran/Documents/College/Lab/8-Bit Pattern Generator/pattern_gen/pattern_gen.sim/sim_1/synth/func/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/zkran/Documents/College/Lab/8-Bit Pattern Generator/pattern_gen/pattern_gen.sim/sim_1/synth/func/xsim/xsim.dir/pattern_gen_tb_func_synth/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/zkran/Documents/College/Lab/8-Bit Pattern Generator/pattern_gen/pattern_gen.sim/sim_1/synth/func/xsim/webtalk.log
+# Journal file: C:/Users/zkran/Documents/College/Lab/8-Bit Pattern Generator/pattern_gen/pattern_gen.sim/sim_1/synth/func/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/zkran/Documents/College/Lab/8-Bit -notrace
+couldn't read file "C:/Users/zkran/Documents/College/Lab/8-Bit": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Thu May 26 15:48:12 2022...

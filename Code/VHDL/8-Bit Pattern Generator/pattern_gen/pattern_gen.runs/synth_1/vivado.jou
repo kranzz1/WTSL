@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Jun 13 14:42:57 2022
+# Process ID: 20032
+# Current directory: C:/Users/zkran/Documents/College/Lab/8-Bit Pattern Generator/pattern_gen/pattern_gen.runs/synth_1
+# Command line: vivado.exe -log pattern_gen.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source pattern_gen.tcl
+# Log file: C:/Users/zkran/Documents/College/Lab/8-Bit Pattern Generator/pattern_gen/pattern_gen.runs/synth_1/pattern_gen.vds
+# Journal file: C:/Users/zkran/Documents/College/Lab/8-Bit Pattern Generator/pattern_gen/pattern_gen.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source pattern_gen.tcl -notrace
